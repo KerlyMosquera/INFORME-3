@@ -9,6 +9,8 @@
 
 ### 3.1 MATERIALES  Y EQUIPOS
 
+![image](https://user-images.githubusercontent.com/84431598/122623485-db06e780-d061-11eb-9739-a0915211894b.png)
+
 ### 3.2 PROCECI 
 
 ## 4. RESPUESTAS  A INTERROGANTES Y CÁLCULO DEL ERROR
