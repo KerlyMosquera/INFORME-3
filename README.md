@@ -1,6 +1,8 @@
 #  PRÁCTICA No.3 ANÁLISIS DE NODOS
 ## 1. OBJETIVOS
 ### OBJETIVO GENERAL
+Utilizar el análisis de nodos para determinar
+cantidades desconocidas en un circuito
 ### OBJETIVO ESPECÍFICOS
 - Utilizar el análisis de nodos para determinar cantidades desconocidas en un circuito 
 - Aplicar conocimientos anteriormente obtenido como la ley de corriente de Kirchhoff en cada nodo
