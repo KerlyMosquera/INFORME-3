@@ -4,7 +4,7 @@
 
 ### OBJETIVO ESPECÍFICOS
 - Utilizar el análisis de nodos para determinar cantidades desconocidas en un circuito 
-- Aplicar conocimientos anteriormente obtenido como la ley de corriente de Kirchhoff en cada nodo
+- Aplicar conocimientos anteriormente obtenido como la ley de corriente de Kirchhoff en cada nodo.
 - Seleccionar los nodos en los cuales se desconoce el voltaje y asignar corrientes.
 - Plantear, desarrollar y resolver las ecuaciones de los nodos.
 ## 2. MARCO TEÓRICO
