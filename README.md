@@ -8,6 +8,7 @@
 - Seleccionar los nodos en los cuales se desconoce el voltaje y asignar corrientes.
 - Plantear, desarrollar y resolver las ecuaciones de los nodos.
 ## 2. MARCO TEÓRICO
+![image](https://user-images.githubusercontent.com/84431598/122664476-3d95db80-d167-11eb-9b55-50bc3f3d9fde.png)
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
