@@ -20,23 +20,16 @@
 
 ### 3.2 PROCEDIMIENTO
 
-#### PASO 1
-Determinar el número de nodos
-#### PASO 2
-Seleccionar un nodo de refecnia. Todos los voltajes serán con respecto al nodo de referencia. Asignar  designaciones  de voltaje a cada nodo donde el voltaje es deconocido.
-#### PASO 3
-Asignar corrientes en cada nodo donde se desconoce el voltaje, exceptop en el nodo de referencia. Las direcciones son arbitrarias.
-#### PASO 4
-Aplicar la ley de corriente de Kirchoff a cada nodo donde se asigna las corrientes.
-#### PASO 5
-Expresar las ecuaciones de corriente en función de voltajes, y resolver las ecuaciones para determinar los voltajes  de nodo desconocidos mediante la ley de Ohm.
 
 ## 4. RESPUESTAS  A INTERROGANTES Y CÁLCULO DEL ERROR
 
 ### 4.1  CIRCUITO PARA EL ANÁLISIS DE NODOS
 
 ### 4.2  CÁLCULOS
+##### NODO A
 
+
+#### NODO B
 ### 4-3 CÁLCULO DEL ERROR
 
 ## 5. CONCLUSIONES
