@@ -29,10 +29,12 @@
 
 
 ### 4.2 CÁLCULOS
-#### NODO A
+#### NODO 1
+
+![image](https://user-images.githubusercontent.com/84431598/122840786-6b426800-d2c0-11eb-95eb-8f11e39fead1.png)
 
 
-#### NODO B
+#### NODO 2
 ### 4-3 CÁLCULO DEL ERROR
 
 ## 5. CONCLUSIONES
