@@ -12,7 +12,9 @@
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-### 3.1 MATERIALES  Y EQUIPOS
+![image](https://user-images.githubusercontent.com/84431598/122776715-f72ca380-d270-11eb-9b2d-61c96d11108a.png)
+
+### 3.1 MATERIALES Y EQUIPOS
 
 ![image](https://user-images.githubusercontent.com/84431598/122623485-db06e780-d061-11eb-9739-a0915211894b.png)
 
