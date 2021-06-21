@@ -26,7 +26,7 @@
 ### 4.1  CIRCUITO PARA EL ANÁLISIS DE NODOS
 
 ### 4.2  CÁLCULOS
-##### NODO A
+#### NODO A
 
 
 #### NODO B
