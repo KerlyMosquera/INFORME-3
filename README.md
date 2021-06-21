@@ -25,7 +25,9 @@
 
 ### 4.1  CIRCUITO PARA EL ANÁLISIS DE NODOS
 
-### 4.2  CÁLCULOS
+![image](https://user-images.githubusercontent.com/84431598/122838565-ebb29a00-d2bb-11eb-8145-60bc7f31fb63.png)
+
+### 4.2 CÁLCULOS
 #### NODO A
 
 
