@@ -31,10 +31,14 @@
 ### 4.2 CÁLCULOS
 #### NODO 1
 
-![image](https://user-images.githubusercontent.com/84431598/122840786-6b426800-d2c0-11eb-95eb-8f11e39fead1.png)
+![image](https://user-images.githubusercontent.com/84431598/122842117-4d760280-d2c2-11eb-9b3f-63d627759af4.png)
 
 
 #### NODO 2
+
+![image](https://user-images.githubusercontent.com/84431598/122842019-1c95cd80-d2c2-11eb-8dc9-b0ef284c3a17.png)
+
+
 ### 4-3 CÁLCULO DEL ERROR
 
 ## 5. CONCLUSIONES
