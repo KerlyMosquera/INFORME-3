@@ -42,6 +42,9 @@
 
 ![image](https://user-images.githubusercontent.com/84431598/122842611-53b8ae80-d2c3-11eb-9ac3-492d9e1cf051.png)
 
+#### RESULTADOS
+
+![image](https://user-images.githubusercontent.com/84431598/122843982-451fc680-d2c6-11eb-9aa8-90cd1346772f.png)
 
 ### 4-3 CÁLCULO DEL ERROR
 
