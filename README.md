@@ -42,6 +42,7 @@
    *Figura 2: Simulación en Tinkercad*
 
 
+![image](https://user-images.githubusercontent.com/84458025/122864382-2501fe80-d2ea-11eb-9fdc-00ed01ed1276.png)
 
 
    *Figura 3: Simulación en Proteus*
@@ -89,7 +90,7 @@
 
 ## 5. VIDEO
 
-
+https://youtu.be/HSMCaUUuriI
 
 ## 6. CONCLUSIONES
 
