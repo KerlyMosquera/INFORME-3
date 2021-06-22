@@ -22,13 +22,15 @@
 
 ![image](https://user-images.githubusercontent.com/84425276/122846954-8b782400-d2cc-11eb-89db-341235f9c934.png)
 
-    *Figura 1.1 Circuito para el análisis de nodos.*
+   *Figura 1.1 Circuito para el análisis de nodos.*
 
 3.2.2 Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 3.1.
 
 ![image](https://user-images.githubusercontent.com/84431598/122776715-f72ca380-d270-11eb-9b2d-61c96d11108a.png)
 
-3.2.3 Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito
+3.2.3 Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 3.1, obteniendo los valores de los voltajes de nodo. Anote los resultados en la tabla 3.1.
+
+![image](https://user-images.githubusercontent.com/84425276/122847437-50c2bb80-d2cd-11eb-9520-2a3ccd299e5f.png)
 
 
 ## 4. RESPUESTAS  A INTERROGANTES Y CÁLCULO DEL ERROR
