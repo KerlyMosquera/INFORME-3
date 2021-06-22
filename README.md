@@ -18,20 +18,32 @@
 
 ### 3.2 PROCEDIMIENTO
 
-3.2.1 Implemente el circuito que se presenta en la figura 1.1.
+3.2.1 Implemente el circuito que se presenta en la figura 3.1.
 
 ![image](https://user-images.githubusercontent.com/84425276/122846954-8b782400-d2cc-11eb-89db-341235f9c934.png)
 
-   *Figura 1.1 Circuito para el análisis de nodos.*
+   *Figura 3.1 Circuito para el análisis de nodos.*
 
 3.2.2 Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 4.4.
 
 ![image](https://user-images.githubusercontent.com/84431598/122776715-f72ca380-d270-11eb-9b2d-61c96d11108a.png)
 
+   *Figura 1: Medición de corriente*
+
 3.2.3 Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 3.1, obteniendo los valores de los voltajes de nodo. Anote los resultados en la tabla 3.1.
 
 ![image](https://user-images.githubusercontent.com/84425276/122847437-50c2bb80-d2cd-11eb-9520-2a3ccd299e5f.png)
 
+   *Figura 2: Simulación en Tinkercad*
+
+
+
+
+   *Figura 3: Simulación en Proteus*
+
+
+
+   *Figura 4: Simulación en Real*
 
 ## 4. RESPUESTAS  A INTERROGANTES Y CÁLCULO DEL ERROR
 
@@ -39,12 +51,11 @@
 
 ![image](https://user-images.githubusercontent.com/84431598/122839494-bdce5500-d2bd-11eb-8a71-6181ab48cd99.png)
 
-
 ### 4.2 CÁLCULOS
+
 #### NODO 1
 
 ![image](https://user-images.githubusercontent.com/84431598/122842117-4d760280-d2c2-11eb-9b3f-63d627759af4.png)
-
 
 #### NODO 2
 
@@ -54,11 +65,9 @@
 
 ![image](https://user-images.githubusercontent.com/84431598/122842611-53b8ae80-d2c3-11eb-9ac3-492d9e1cf051.png)
 
-
 ### 4.3 CÁLCULO DEL ERROR
 
 ![image](https://user-images.githubusercontent.com/84425276/122846158-df820900-d2ca-11eb-9f67-0319b3faea7c.png)
-
 
 ### 4.4 RESULTADOS OBTENIDOS  PARA EL CIRCUITO.
 
@@ -68,9 +77,17 @@
  
  - Los valores medidos y los valores calculados coinciden con un mínimo error.
 
-## 5. CONCLUSIONES
+## 5. VIDEO
 
-## 6. VIDEO
+
+
+## 6. CONCLUSIONES
+
+-
+-
+-
+-
+
 
 ## 7. BIBLIOGRAFÍA
 
