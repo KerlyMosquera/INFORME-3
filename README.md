@@ -45,6 +45,9 @@
 
 ### 4-3 CÁLCULO DEL ERROR
 
+![image](https://user-images.githubusercontent.com/84425276/122845952-6c789280-d2ca-11eb-8db3-e75a45019187.png)
+
+
 ### 4-4 RESULTADOS OBTENIDOS  PARA EL CIRCUITO.
 
 ![image](https://user-images.githubusercontent.com/84431598/122845342-22db7800-d2c9-11eb-8f8b-2bf9de5fad1c.png)
