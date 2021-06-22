@@ -24,7 +24,7 @@
 
    *Figura 1.1 Circuito para el análisis de nodos.*
 
-3.2.2 Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 3.1.
+3.2.2 Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 4-4.
 
 ![image](https://user-images.githubusercontent.com/84431598/122776715-f72ca380-d270-11eb-9b2d-61c96d11108a.png)
 
