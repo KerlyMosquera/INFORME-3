@@ -24,7 +24,7 @@
 
    *Figura 1.1 Circuito para el análisis de nodos.*
 
-3.2.2 Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 4-4.
+3.2.2 Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 4.4.
 
 ![image](https://user-images.githubusercontent.com/84431598/122776715-f72ca380-d270-11eb-9b2d-61c96d11108a.png)
 
@@ -55,16 +55,16 @@
 ![image](https://user-images.githubusercontent.com/84431598/122842611-53b8ae80-d2c3-11eb-9ac3-492d9e1cf051.png)
 
 
-### 4-3 CÁLCULO DEL ERROR
+### 4.3 CÁLCULO DEL ERROR
 
 ![image](https://user-images.githubusercontent.com/84425276/122846158-df820900-d2ca-11eb-9f67-0319b3faea7c.png)
 
 
-### 4-4 RESULTADOS OBTENIDOS  PARA EL CIRCUITO.
+### 4.4 RESULTADOS OBTENIDOS  PARA EL CIRCUITO.
 
 ![image](https://user-images.githubusercontent.com/84431598/122845342-22db7800-d2c9-11eb-8f8b-2bf9de5fad1c.png)
  
- 4.4.1 Compare los valores de la tabla 4-4 y realice sus conclusiones.
+ 4.4.1 Compare los valores de la tabla 4.4 y realice sus conclusiones.
  
  - Los valores medidos y los valores calculados coinciden con un mínimo error.
 
