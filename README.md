@@ -12,13 +12,23 @@
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-![image](https://user-images.githubusercontent.com/84431598/122776715-f72ca380-d270-11eb-9b2d-61c96d11108a.png)
-
 ### 3.1 MATERIALES Y EQUIPOS
 
 ![image](https://user-images.githubusercontent.com/84431598/122623485-db06e780-d061-11eb-9739-a0915211894b.png)
 
 ### 3.2 PROCEDIMIENTO
+
+3.2.1 Implemente el circuito que se presenta en la figura 1.1.
+
+![image](https://user-images.githubusercontent.com/84425276/122846954-8b782400-d2cc-11eb-89db-341235f9c934.png)
+
+    *Figura 1.1 Circuito para el análisis de nodos.*
+
+3.2.2 Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 3.1.
+
+![image](https://user-images.githubusercontent.com/84431598/122776715-f72ca380-d270-11eb-9b2d-61c96d11108a.png)
+
+3.2.3 Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito
 
 
 ## 4. RESPUESTAS  A INTERROGANTES Y CÁLCULO DEL ERROR
@@ -58,7 +68,3 @@
 ## 6. VIDEO
 
 ## 7. BIBLIOGRAFÍA
-
-Roobins, A y Miller, W. (2007). * Análisis de circuitos teoría y práctica (4ta ed),  * México DF, México: Cengage Learning.
-
-Floyd, T. (2007). * Principios de circuitos eléctricos (8va ed), * México DF, México: Pearson Educación.
