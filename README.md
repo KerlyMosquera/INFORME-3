@@ -63,7 +63,10 @@
 ### 4-4 RESULTADOS OBTENIDOS  PARA EL CIRCUITO.
 
 ![image](https://user-images.githubusercontent.com/84431598/122845342-22db7800-d2c9-11eb-8f8b-2bf9de5fad1c.png)
-
+ 
+ 4.4.1 Compare los valores de la tabla 4-4 y realice sus conclusiones.
+ 
+ - Los valores medidos y los valores calculados coinciden con un mínimo error.
 
 ## 5. CONCLUSIONES
 
