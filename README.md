@@ -58,6 +58,11 @@
 
 ### 4.2 CÁLCULOS
 
+#### CONVERSIÓN DE UNIDADES
+
+![image](https://user-images.githubusercontent.com/84431598/122859267-5de9a580-d2e1-11eb-95c4-2967f0a0dcc8.png)
+
+
 #### NODO 1
 
 ![image](https://user-images.githubusercontent.com/84431598/122842117-4d760280-d2c2-11eb-9b3f-63d627759af4.png)
