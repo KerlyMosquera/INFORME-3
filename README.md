@@ -38,6 +38,10 @@
 
 ![image](https://user-images.githubusercontent.com/84431598/122842019-1c95cd80-d2c2-11eb-8dc9-b0ef284c3a17.png)
 
+#### SISTEMA DE ECUACIONES
+
+![image](https://user-images.githubusercontent.com/84431598/122842611-53b8ae80-d2c3-11eb-9ac3-492d9e1cf051.png)
+
 
 ### 4-3 CÁLCULO DEL ERROR
 
