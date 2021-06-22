@@ -47,6 +47,7 @@
 
 ### 4-4 RESULTADOS OBTENIDOS  PARA EL CIRCUITO.
 
+![image](https://user-images.githubusercontent.com/84431598/122845342-22db7800-d2c9-11eb-8f8b-2bf9de5fad1c.png)
 
 
 ## 5. CONCLUSIONES
