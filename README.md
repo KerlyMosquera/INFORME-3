@@ -47,6 +47,7 @@
 
    *Figura 3: Simulación en Proteus*
 
+![image](https://user-images.githubusercontent.com/84458025/122968265-f9662f00-d350-11eb-8148-5073d5959c68.png)
 
 
    *Figura 4: Simulación en Real*
