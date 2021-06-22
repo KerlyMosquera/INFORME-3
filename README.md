@@ -67,8 +67,7 @@
 
 #### NODO 1
 
-![image](https://user-images.githubusercontent.com/84431598/122977030-8f528780-d35a-11eb-81d6-f35ab659d759.png)
-
+![image](https://user-images.githubusercontent.com/84431598/122979474-32a49c00-d35d-11eb-8add-000616ecd57e.png)
 
 #### NODO 2
 
