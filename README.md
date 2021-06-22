@@ -76,7 +76,8 @@
 
 #### SISTEMA DE ECUACIONES
 
-![image](https://user-images.githubusercontent.com/84431598/122842611-53b8ae80-d2c3-11eb-9ac3-492d9e1cf051.png)
+![image](https://user-images.githubusercontent.com/84431598/122979829-a2b32200-d35d-11eb-9353-cc3732b0b7a6.png)
+
 
 ### 4.3 CÁLCULO DEL ERROR
 
