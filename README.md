@@ -94,7 +94,7 @@
 
 - Los valores medidos y los valores calculados coinciden con un mínimo error.
 
-- De los resultados obtenidos en esta practica se concluye que fue realizada correctamente.
+- De los resultados obtenidos en esta práctica se concluye que fue realizada correctamente.
 
 ## 7. BIBLIOGRAFÍA
 
