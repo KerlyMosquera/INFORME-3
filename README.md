@@ -6,7 +6,7 @@
 
 #### OBJETIVO ESPECÍFICOS
 
-- Aplicar conocimientos anteriormente obtenido como la ley de corriente de Kirchhoff en cada nodo.
+- Aplicar conocimientos anteriormente obtenido como la ley de corriente de Kirchhoff y la ley de Ohm en cada nodo.
 - Seleccionar los nodos en los cuales se desconoce el voltaje y asignar corrientes.
 - Plantear, desarrollar y resolver las ecuaciones de los nodos.
 - Comparar los valores calculados con los medidos en la práctica, para determinar el porcentaje de error.
