@@ -72,7 +72,8 @@
 
 #### NODO 2
 
-![image](https://user-images.githubusercontent.com/84431598/122842019-1c95cd80-d2c2-11eb-8dc9-b0ef284c3a17.png)
+![image](https://user-images.githubusercontent.com/84431598/122977237-c6c13400-d35a-11eb-8fc0-0336919f2697.png)
+
 
 #### SISTEMA DE ECUACIONES
 
