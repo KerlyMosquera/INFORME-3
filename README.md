@@ -83,8 +83,7 @@
 
 ## 6. CONCLUSIONES
 
--
--
+-El análisis de nodos nos permite determinar los voltajes en los nodos (puntos de intercepción de las ramas de un circuito eléctrico) y luego calcular las corrientes en las ramas. Se fundamenta en  dos leyes anteriores vistas que son La ley de Ohm y la Ley de Kirchhoff de corrientes que plantea que las cargas no se pueden acumular en ningún nodo.
 -
 -
 
