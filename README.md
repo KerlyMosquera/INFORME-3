@@ -1,13 +1,18 @@
 #  PRÁCTICA No.3 ANÁLISIS DE NODOS
 ## 1. OBJETIVOS
-### OBJETIVO GENERAL
+#### OBJETIVO GENERAL
 
-### OBJETIVO ESPECÍFICOS
-- Utilizar el análisis de nodos para determinar cantidades desconocidas en un circuito 
+- Utilizar el análisis de nodos para determinar los volatajes de estos, en un circuito mixto simulado en Tinkercad.
+
+#### OBJETIVO ESPECÍFICOS
+
 - Aplicar conocimientos anteriormente obtenido como la ley de corriente de Kirchhoff en cada nodo.
 - Seleccionar los nodos en los cuales se desconoce el voltaje y asignar corrientes.
 - Plantear, desarrollar y resolver las ecuaciones de los nodos.
+- Comparar los valores calculados con los medidos en la práctica, para determinar el porcentaje de error.
+
 ## 2. MARCO TEÓRICO
+
 ![image](https://user-images.githubusercontent.com/84431598/122664476-3d95db80-d167-11eb-9b55-50bc3f3d9fde.png)
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
@@ -83,9 +88,13 @@
 
 ## 6. CONCLUSIONES
 
-- El análisis de nodos nos permite determinar los voltajes en los nodos (puntos de intercepción de las ramas de un circuito eléctrico) y luego calcular las corrientesn en las ramas. Se fundamenta en dos leyes vistas previamente que son La ley de Ohm y la Ley de Kirchhoff de corriente que plantea  que las cargas  no se pueden acumular.
+- El análisis de nodos nos permite determinar los voltajes en los nodos (puntos de intercepción de las ramas de un circuito eléctrico) y luego calcular las corrientes en las ramas. Se fundamenta en dos leyes vistas previamente que son La ley de Ohm y la Ley de Kirchhoff de corriente que plantea  que las cargas  no se pueden acumular.
+
 - Cuando el circuito tiene un número alto de elementos es preferible elegir el método de KCL, ya que tenemos menos nodos y por lo tanto menos ecuaciones.
 
+- Los valores medidos y los valores calculados coinciden con un mínimo error.
+
+- De los resultados obtenidos en esta practica se concluye que fue realizada correctamente.
 
 ## 7. BIBLIOGRAFÍA
 
